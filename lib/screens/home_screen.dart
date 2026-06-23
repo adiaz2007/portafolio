@@ -73,7 +73,7 @@ class _HomeScreenState extends State<HomeScreen> {
           BottomNavigationBarItem(
             icon: Icon(Icons.work_outline),
             activeIcon: Icon(Icons.work),
-            label: 'Projects',
+            label: 'Projectos',
           ),
         ],
         currentIndex: _selectedIndex,

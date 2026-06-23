@@ -57,14 +57,9 @@ class AboutTab extends StatelessWidget {
                   label: 'GitHub',
                   onPressed: () {},
                 ),
-                SocialLinkButton(
-                  icon: Icons.chat_bubble_outline, 
-                  label: 'Twitter',
-                  onPressed: () {},
-                ),
-                SocialLinkButton(
-                  icon: Icons.work_outline, 
-                  label: 'LinkedIn',
+               SocialLinkButton(
+                  icon: Icons.camera_alt_outlined, 
+                  label: 'Instagram',
                   onPressed: () {},
                 ),
               ],
